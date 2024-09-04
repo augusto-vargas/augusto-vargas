@@ -4,7 +4,7 @@
 - 💞️ Estou procurando colaborar em projetos onde eu possa me desenvolver e melhorar minhas habilidades.
 - ⚡ Curiosidade: eu costumava jogar vôlei em jogos competitivos.
 
---------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 - 👋 Hi, I'm Guto!
 - 👀 I'm interested in back-end programming and AI.
