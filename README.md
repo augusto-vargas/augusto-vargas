@@ -1,4 +1,4 @@
-# Hi there, I'm Guto!
+# Hi there, I'm Augusto!
 
 - 🎓 IT Technician at [Fundação Liberato] – [Novo Hamburgo/RS]
 - 💻 Currently learning C#, SQL, HTML, CSS, JS, and Java.
