@@ -21,7 +21,7 @@
 
 ## ⚡ GitHub Stats  
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutovx&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-vargas&layout=compact&theme=radical"/>
 </p>
 
 ---
